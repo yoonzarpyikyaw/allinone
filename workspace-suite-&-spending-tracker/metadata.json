@@ -1,0 +1,6 @@
+{
+  "name": "Workspace Suite & Spending Tracker",
+  "description": "An all-in-one executive dashboard for managing tasks, tracking daily habits, and managing personal expenses with cash flow analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
